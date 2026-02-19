@@ -1,0 +1,6 @@
+name: octave-env
+channels:
+  - conda-forge
+dependencies:
+  - jupyterlab
+  - xeus-octave
